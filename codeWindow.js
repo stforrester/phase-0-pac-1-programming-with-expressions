@@ -17,4 +17,4 @@ const first = 2;
 const second = 1;
 const problem = 99;
 const luckyNumber = first > second ? (problem - 1) / 2 : problem / 3;
-luckyNumber; //=> ??? (Test it out yourself!)
+console.log(luckyNumber); //=> ??? (Test it out yourself!)
